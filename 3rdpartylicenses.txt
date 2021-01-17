@@ -75,6 +75,8 @@ MIT
 @peek/core/peek
 MIT
 
+@peek/micro/upgrade
+
 after
 MIT
 Copyright (c) 2011 Raynos.
