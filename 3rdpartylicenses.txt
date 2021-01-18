@@ -78,8 +78,6 @@ MIT
 @peek/core/peek
 MIT
 
-@peek/micro/negotiate
-
 after
 MIT
 Copyright (c) 2011 Raynos.
