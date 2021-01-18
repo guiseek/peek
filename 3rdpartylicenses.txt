@@ -69,13 +69,16 @@ MIT
 @angular/service-worker
 MIT
 
+@peek/core/adapter
+MIT
+
 @peek/core/model
 MIT
 
 @peek/core/peek
 MIT
 
-@peek/micro/upgrade
+@peek/micro/negotiate
 
 after
 MIT
