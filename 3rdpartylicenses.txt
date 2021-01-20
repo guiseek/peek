@@ -80,6 +80,8 @@ MIT
 
 @peek/core/usecase
 
+@peek/shared/elements
+
 after
 MIT
 Copyright (c) 2011 Raynos.
