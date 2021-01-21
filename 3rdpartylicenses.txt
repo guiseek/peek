@@ -75,10 +75,9 @@ MIT
 @peek/core/model
 MIT
 
-@peek/core/peek
-MIT
-
 @peek/core/usecase
+
+@peek/shared/data-access
 
 @peek/shared/elements
 
