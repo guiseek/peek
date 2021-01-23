@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611289740990,
+  "timestamp": 1611391947453,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/assets/icons/logo-32.png",
         "/index.html",
-        "/main.5ac9edd9c30972a44c23.js",
+        "/main.b2f4ff42badcc1417e9f.js",
         "/manifest.webmanifest",
         "/polyfills.24576ab50476b71283c4.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -100,8 +100,8 @@
     "/assets/ringtones/phone-ringback-tone.ogg": "bb4a363c7daf46ca314a3a43e90d82d5b9dcbd39",
     "/assets/ringtones/phone-ringtone_time_that_passes.ogg": "5f12da75df2709400e5cce65899b5f65db0b593d",
     "/assets/ringtones/phone-vibrator-2.ogg": "5c8532bb47bee4618b1daa45bfeb933aded416e5",
-    "/index.html": "877fef0fad28138e75b09eb97524a2f761888d72",
-    "/main.5ac9edd9c30972a44c23.js": "1bc9ef9a190b2a7c5acad774c0f4a325473e7bf3",
+    "/index.html": "0aebc2a899b0a74a118458b7e824dd37a4421b84",
+    "/main.b2f4ff42badcc1417e9f.js": "47cb4513e5b9d14fac81baf9e0d1ab6cbfcf5b96",
     "/manifest.webmanifest": "1e87652e3de49e3e6ed141d99cff0bc688bf01c6",
     "/polyfills.24576ab50476b71283c4.js": "eed9ece39816e6e1541d39044e0265e89c282c1f",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
