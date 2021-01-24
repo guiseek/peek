@@ -81,6 +81,8 @@ MIT
 
 @peek/shared/elements
 
+@peek/util/format
+
 after
 MIT
 Copyright (c) 2011 Raynos.
