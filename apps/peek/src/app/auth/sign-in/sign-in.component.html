@@ -16,10 +16,16 @@
     <input
       matInput
       peekPwnedCheck
+      (cdkAutofill)="onAutofill($event)"
       type="password"
       autocomplete="current-password"
       formControlName="password"
     />
     <mat-error>Obrigatório</mat-error>
   </mat-form-field>
+
+  <ng-content select="peek-pwned-message"></ng-content>
+
+  <ng-content select="[mat-button]"></ng-content>
 </form>
+

@@ -8,4 +8,7 @@ import { Component, Input } from '@angular/core'
 })
 export class SignInComponent {
   @Input() form: FormGroup
+  onAutofill($event) {
+    console.log('autofill from sign: ', $event)
+  }
 }
